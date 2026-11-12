@@ -1,0 +1,109 @@
+{
+ "server": {
+  "file": "server.png",
+  "icon_id": 1380964406,
+  "bytes": 20418
+ },
+ "channels": {
+  "1": {
+   "file": "hangar.png",
+   "icon_id": 1480751570,
+   "bytes": 16062
+  },
+  "5": {
+   "file": "cat-comando.png",
+   "icon_id": 233537511,
+   "bytes": 18687
+  },
+  "7": {
+   "file": "codigo.png",
+   "icon_id": 814640543,
+   "bytes": 19477
+  },
+  "8": {
+   "file": "holonet.png",
+   "icon_id": 271093338,
+   "bytes": 17603
+  },
+  "9": {
+   "file": "cat-coruscant.png",
+   "icon_id": 1744503142,
+   "bytes": 18080
+  },
+  "10": {
+   "file": "senado.png",
+   "icon_id": 2074239787,
+   "bytes": 19057
+  },
+  "11": {
+   "file": "cantina.png",
+   "icon_id": 1619591421,
+   "bytes": 16338
+  },
+  "12": {
+   "file": "desfile.png",
+   "icon_id": 411986977,
+   "bytes": 16441
+  },
+  "13": {
+   "file": "cat-frota.png",
+   "icon_id": 182621549,
+   "bytes": 18973
+  },
+  "18": {
+   "file": "minecraft.png",
+   "icon_id": 898467684,
+   "bytes": 16433
+  },
+  "21": {
+   "file": "outros-jogos.png",
+   "icon_id": 65962811,
+   "bytes": 16733
+  },
+  "22": {
+   "file": "cat-marcha.png",
+   "icon_id": 1088820250,
+   "bytes": 18070
+  },
+  "23": {
+   "file": "radio.png",
+   "icon_id": 1956569463,
+   "bytes": 19772
+  },
+  "24": {
+   "file": "pedidos.png",
+   "icon_id": 505914314,
+   "bytes": 16204
+  },
+  "25": {
+   "file": "cat-carbonita.png",
+   "icon_id": 2091057238,
+   "bytes": 18039
+  },
+  "26": {
+   "file": "afk.png",
+   "icon_id": 1164238779,
+   "bytes": 19063
+  },
+  "27": {
+   "file": "cat-ladosombrio.png",
+   "icon_id": 1089865983,
+   "bytes": 15906
+  },
+  "28": {
+   "file": "trono.png",
+   "icon_id": 1137436647,
+   "bytes": 18176
+  },
+  "29": {
+   "file": "ponte.png",
+   "icon_id": 493287851,
+   "bytes": 19303
+  },
+  "30": {
+   "file": "arquivos.png",
+   "icon_id": 606731876,
+   "bytes": 17571
+  }
+ }
+}
