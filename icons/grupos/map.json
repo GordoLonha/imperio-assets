@@ -1,0 +1,34 @@
+{
+ "server": {
+  "file": "imperador.png",
+  "icon_id": 1478077224,
+  "bytes": 17808
+ },
+ "channels": {
+  "6": {
+   "file": "lorde-sith.png",
+   "icon_id": 266622583,
+   "bytes": 19218
+  },
+  "7": {
+   "file": "stormtrooper.png",
+   "icon_id": 192815178,
+   "bytes": 18585
+  },
+  "8": {
+   "file": "recruta.png",
+   "icon_id": 1711034421,
+   "bytes": 18542
+  },
+  "9": {
+   "file": "inquisidor.png",
+   "icon_id": 752246381,
+   "bytes": 19778
+  },
+  "10": {
+   "file": "engenheiro.png",
+   "icon_id": 1820628261,
+   "bytes": 20085
+  }
+ }
+}
